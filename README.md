@@ -1,4 +1,4 @@
-# Проектирование базы данных для книжного магазина
+# Проектирование базы данных для отеля
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2307405e.svg?style=for-the-badge&logo=MySQL&logoColor=E6882E)
 
