@@ -125,7 +125,7 @@ SELECT
     position,
     salary
 FROM 
-    staff 
+    Employees 
     JOIN Positions ON Employees.position_id = Positions.position_id;
 ```
 
